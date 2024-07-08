@@ -28,6 +28,7 @@ Define a TypeScript interface for a real estate listing. In your main working fi
 
 
 *3. Implement the API Endpoints*
+
 Add a New Listing:
 Create a POST endpoint /listings that allows users to add a new listing. This endpoint should accept JSON data matching the Listing interface and add it to an in-memory store (e.g., an array).
 
